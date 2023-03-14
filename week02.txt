@@ -1,4 +1,4 @@
-Geoyujihye
+Geoyujihye se
 git init/add/commit/config/log
 
 lesson02
