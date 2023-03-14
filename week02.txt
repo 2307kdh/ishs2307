@@ -2,7 +2,7 @@ Geoyujihye se
 git init/add/commit/config/log
 
 lesson02
-git & github
+git,master, push
 
 lesson03
 github
