@@ -2,8 +2,8 @@ Geoyujihye se
 git init/add/commit/config/log
 
 lesson02
-git,master, push
+git,master/main/branch
 
 lesson03
 github
-git remote/push
+git remote/push/pull
