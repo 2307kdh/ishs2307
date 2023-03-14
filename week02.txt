@@ -1,1 +1,5 @@
 Geoyujihye
+git init/add/commit/config/log
+
+lesson02
+git & github
